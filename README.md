@@ -20,3 +20,4 @@ images = ...
 for image in images:
     print(image["src"])
 ```
+https://pitch-eel-0ef.notion.site/Web-Scraping-with-Python-19edeb81ae284653a00e11b1403cdfb7
